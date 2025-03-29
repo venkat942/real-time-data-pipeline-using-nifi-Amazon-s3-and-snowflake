@@ -20,7 +20,7 @@ This project demonstrates a **real-time data streaming architecture** that autom
 
 ## 🧩 Architecture Overview
 
-![Architecture Diagram](images/architecture_diagram.png)
+![Architecture Diagram](images/Architecture_diagram.png)
 
 
 1. **Data Generation**  
