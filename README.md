@@ -22,6 +22,7 @@ This project demonstrates a **real-time data streaming architecture** that autom
 
 ![Architecture Diagram](images/architecture_diagram.png)
 
+
 1. **Data Generation**  
    - Fake customer data is generated using Faker in Jupyter Notebook and saved as CSV files.
 
@@ -151,4 +152,3 @@ This project is licensed under the MIT License.
 
 ---
 
-✅ You're now ready to paste this into your `README.md` on GitHub. Let me know if you'd like a downloadable `.md` file too!
